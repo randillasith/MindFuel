@@ -30,7 +30,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <properties><!-- main class -->
+    <properties>
+        <!-- main class -->
         <exec.main-class>io.github.randillasith.Main</exec.main-class>
 
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
