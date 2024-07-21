@@ -1,3 +1,3 @@
 # MindFuel
 
-#Lycoris Café 2024
+#Lycoris Café
